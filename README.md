@@ -32,14 +32,14 @@ Let's move on to my features 👉
 - 🏃 I'm doing sport like running and workout in a free time
 
 ### 🧮 Statistics
-
+<!-- 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=aslastin alt=aslastin /> </p>
 
 <a href="https://gihub.com/aslastin">
 
 <img align=center src="https://github-readme-stats.vercel.app/api?username=aslastin&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&bg_color=1965C9&text_color=ffffff&icon_color=ffffff">
 
-</a>
+</a> -->
 
 <a href="https://gihub.com/aslastin">
 
