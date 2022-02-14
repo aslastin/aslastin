@@ -10,14 +10,15 @@ Let's move on to my features 👉
 
 ### 💻 Skills and Tools
 
-- ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&labelColor=df5555&color=black) ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&labelColor=39b0a0&color=black)
-- ![](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2b%2b&labelColor=1965C9&logoColor=white&color=black) 
-- ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&labelColor=dfce63&color=black)
-- ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=SQLite&logoColor=white&labelColor=0B814D&color=black)
-- ![](https://img.shields.io/badge/Haskell-informational?style=flat&logo=haskell&logoColor=white&labelColor=8842a9&color=black)
-- ENG - C2 🇺🇸    
-- ![](https://img.shields.io/badge/Git-master-informational?style=flat&logo=git&logoColor=white&labelColor=63df8c&color=black)   
-- ![](https://img.shields.io/badge/Math-nb-informational?style=flat&logo=wolfram&logoColor=white&labelColor=0B814D&color=black)                        
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&labelColor=df5555&color=black) ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&labelColor=39b0a0&color=black) ![](https://img.shields.io/badge/Android-informational?style=flat&logo=android-studio&logoColor=black&labelColor=16f100&color=black) ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&labelColor=0B814D&color=black) ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=blue&labelColor=dfce63&color=black)
+
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2b%2b&labelColor=1965C9&logoColor=white&color=black) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&labelColor=f7df1e&logoColor=black&color=black) ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&labelColor=orange&logoColor=white&color=black) ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&labelColor=blue&logoColor=white&color=black) ![](https://img.shields.io/badge/Haskell-informational?style=flat&logo=haskell&logoColor=white&labelColor=8842a9&color=black)
+
+![](https://img.shields.io/badge/Git-master-informational?style=flat&logo=git&logoColor=white&labelColor=63df8c&color=black) ![](https://img.shields.io/badge/Math-nb-informational?style=flat&logo=wolfram&logoColor=white&labelColor=0B814D&color=black)      
+
+Russian 🇷🇺- Native, ENG 🇺🇸- C2   
+
+                  
 
 ### 💥 Achievements and Experience
 
