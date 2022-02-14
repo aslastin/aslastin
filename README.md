@@ -10,7 +10,7 @@ Let's move on to my features 👉
 
 ### 💻 Skills and Tools
 
-- ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&labelColor=df5555&color=black)![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&labelColor=39b0a0&color=black)
+- ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&labelColor=df5555&color=black) ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&labelColor=39b0a0&color=black)
 - ![](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2b%2b&labelColor=1965C9&logoColor=white&color=black) 
 - ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&labelColor=dfce63&color=black)
 - ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=SQLite&logoColor=white&labelColor=0B814D&color=black)
