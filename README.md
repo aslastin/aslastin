@@ -16,7 +16,7 @@ Let's move on to my features 👉
 
 ![](https://img.shields.io/badge/Git-master-informational?style=flat&logo=git&logoColor=white&labelColor=63df8c&color=black) ![](https://img.shields.io/badge/Math-nb-informational?style=flat&logo=wolfram&logoColor=white&labelColor=0B814D&color=black)      
 
-Russian 🇷🇺- Native, ENG 🇺🇸- C2   
+Russian 🇷🇺 - Native, ENG 🇺🇸 - C2   
 
                   
 
