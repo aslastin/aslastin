@@ -41,8 +41,10 @@ Russian 🇷🇺 - Native, ENG 🇺🇸 - C2
 
 </a> -->
 
-<a href="https://gihub.com/aslastin">
+<a href="https://github.com/aslastin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslastin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" height=240/> 
+</a>
 
-<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslastin&title_color=ffffff&bg_color=0B814D&text_color=ffffff&icon_color=ffffff&layout=default&card_width=300&langs_count=4">
-
+<a href="https://github.com/aslastin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aslastin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height=240 alt="Aleksandr's GitHub Stats" />
 </a>
