@@ -1,6 +1,6 @@
 ## Hi everyone 👋, my name is Aleksandr
 
-Besides the fact that I'm a cool guy, I'm also a 3rd year student of the Computer Science class at ITMO University.
+Besides the fact that I'm a friendly guy, I'm also a 3rd year student of the Computer Science class at ITMO University.
 
 Frankly speaking, I'm studying at an _outstanding_ place with an _outstanding_ mates under the guidance of _outstanding_ masters of their craft and I really appreciate this.
 
@@ -18,7 +18,6 @@ Let's move on to my features 👉
 
 Russian 🇷🇺 - Native, ENG 🇺🇸 - C2   
 
-                  
 
 ### 💥 Achievements and Experience
 
